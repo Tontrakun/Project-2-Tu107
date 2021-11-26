@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Hi I'm Tontrakun Chandaeng, Welcome to My Github Profile 
+### Personal Information
+Hello, I'm Tontrakul Chandaeng.
 
-You can use the [editor on GitHub](https://github.com/Tontrakun/Project-2-Tu107/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Born on 01/05/ 2001.  I am 20 years old.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am studying in the faculty of  Data Science and Innovation in Thammasat University.
 
-### Markdown
+## Skills and Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tontrakun)](https://github.com/anuraghazra/github-readme-stats)
+## Personality
+- Good Interpersonal
 
-```markdown
-Syntax highlighted code block
+- Observant
 
-# Header 1
-## Header 2
-### Header 3
+- With careful attention to detail
 
-- Bulleted
-- List
+- Love to learn and develop
 
-1. Numbered
-2. List
+## Works and other information</h1>
 
-**Bold** and _Italic_ and `Code` text
+- 👨‍💻 My Projects **หนังสือไปไหน?**
 
-[Link](url) and ![Image](src)
-```
+- 🌱 I’m currently learning **Thammasat University.**
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+- 👯 Favorite works **Used to participate in elephant fairs in Surin province 2 times in 2017,2018**
 
-### Jekyll Themes
+- 📫 Email **Ttontrakun@gmail.com**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tontrakun/Project-2-Tu107/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- ⚡ Fun fact **I think I am funny**
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
