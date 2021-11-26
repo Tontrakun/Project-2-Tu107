@@ -1,6 +1,8 @@
 ## Hi I'm Tontrakun Chandaeng, Welcome to My Github Profile 
 
 ## Personal Information
+![260002320_317473776625229_7920483651604995409_n (1)](https://user-images.githubusercontent.com/93764124/143542968-9c927476-f526-4047-afa1-6a24974d9a48.jpg)
+
 
 My name is Tontrakul Chandaeng.
 
