@@ -2,8 +2,6 @@
 
 ## Personal Information
 
-![260002320_317473776625229_7920483651604995409_n (1)](https://user-images.githubusercontent.com/93764124/143539816-ae57bfa5-12bc-4b0d-a378-8b9929b26c7f.jpg)
-
 My name is Tontrakul Chandaeng.
 
 Born on 01/05/ 2001.  I am 20 years old.
